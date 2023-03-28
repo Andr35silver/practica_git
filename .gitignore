@@ -1,0 +1,4 @@
+##aqui va el nombre del archivo a ignorar
+archivos_ignorados.txt
+#   ignorar carpetas
+/dir2
